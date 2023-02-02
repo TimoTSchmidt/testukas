@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: David Clarke
+title: TIMO SCHMIDT
 ---
-<!--- # <i class="far fa-id-badge"></i> David Clarke --->
-# ![David Clarke](https://david-clarke.id.au/images/logo.png)
+<!--- # <i class="far fa-id-badge"></i> Timo Schmidt --->
+# ![Timo Schmidt](https://david-clarke.id.au/images/logo.png)
 <br>
 Cyber Security Professional / People Leader / Cloud Security Advocate / Internet Explorer
 
